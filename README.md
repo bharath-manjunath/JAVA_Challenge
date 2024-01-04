@@ -1,4 +1,4 @@
-# *JAVA_Challenge*
+# *JavaBrain_Teasers*
 A simple java application which contains quiz on basic java questions.
 
 ## *Features*
@@ -25,7 +25,7 @@ https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.html
 ```
 Cmd
 
-$ git clone https://github.com/bharath-manjunath/JAVA_Challenge.git
+$ git clone https://github.com/bharath-manjunath/JavaBrain_Teasers.git
 ```
 *	Open the files included in the repository in your IDE.
 *	Run the code and start attending the quiz to test your java knowledge.
