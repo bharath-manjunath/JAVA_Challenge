@@ -21,7 +21,7 @@ https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.html
 ```
 
 ## *Run Locally*
-*	Clone the repository in your desired directory using [URL](https://github.com/bharath-manjunath/JAVA_Challenge.git).
+*	Clone the repository in your desired directory using [URL](https://github.com/bharath-manjunath/JavaBrain_Teasers.git).
 ```
 Cmd
 
